@@ -1,12 +1,12 @@
 ACCOUNT_ID,COURSE_ID,IS_COMPLETED,RATING,REVIEW
-1001,1,1,4,"Great course! Learned a lot about the basics of computer science"
-1001,4,0,NULL,NULL
-1002,3,1,5,"Highly recommended for anyone interested"
-1003,1,1,3,"Good, but could use more advanced content"
-1003,6,1,5,"Excellent material on economics!"
-1004,5,0,NULL,NULL
-1004,6,1,4,"Very engaging and practical"
-1005,2,1,4,"Enjoyed it, but more practice exercises would be nice"
-1006,7,0,NULL,NULL
-1007,5,1,3,"Interesting, but the content was a bit too general"
-1008,7,1,5,"Amazing course on design! The tutorials were very helpful"
+1001,1,true,4,"Great course! Learned a lot about the basics of computer science"
+1001,4,false,NULL,NULL
+1002,3,true,5,"Highly recommended for anyone interested"
+1003,1,true,3,"Good, but could use more advanced content"
+1003,6,true,5,"Excellent material on economics!"
+1004,5,false,NULL,NULL
+1004,6,true,4,"Very engaging and practical"
+1005,2,true,4,"Enjoyed it, but more practice exercises would be nice"
+1006,7,false,NULL,NULL
+1007,5,true,3,"Interesting, but the content was a bit too general"
+1008,7,true,5,"Amazing course on design! The tutorials were very helpful"
